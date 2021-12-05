@@ -3,15 +3,16 @@
 * [Inicio](README.md)
 * [FAQ](faq.md)
 
-## Panel de servidores
+## Servicios
 
-* [Discord Bot](panel-de-servidores/discord-bot.md)
+* [VPS](servicios/vps/README.md)
+  * [Cómo utilizar 'screen'](servicios/vps/como-utilizar-screen.md)
+* [Discord Bot](servicios/discord-bot.md)
 
 ## Links útiles
 
----
+***
 
 * [Área de clientes](https://billing.pyronode.com)
 * [Panel de servidores](https://panel.pyronode.com)
 * [Servidor de Discord](https://pyronode.com/support)
-
